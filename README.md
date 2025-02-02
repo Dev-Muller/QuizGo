@@ -15,6 +15,7 @@ To run the project, make sure you have Go installed. If you don’t have it yet,
 
 ### **1. Clone the repository**
 git clone https://github.com/Dev-Muller/QuizGo.git
+
 cd QuizGo
 
 2. Run the game
