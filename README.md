@@ -9,19 +9,21 @@ A simple interactive quiz game built with Go (Golang). The game presents multipl
 - 🎯 **Scoring system**
 - 🖥️ **Terminal-based gameplay**
 
+
 ## 📦 Installation
 
 To run the project, make sure you have Go installed. If you don’t have it yet, [download and install Go](https://go.dev/dl/).
 
-### **1. Clone the repository**
-git clone https://github.com/Dev-Muller/QuizGo.git
 
-cd QuizGo
+### **1. Clone the repository**
+
+- git clone https://github.com/Dev-Muller/QuizGo.git
+- cd QuizGo
 
 
 ## 2. Run the game
 
-go run main.go
+- go run main.go
 
 
 ## 🛠 How It Works
