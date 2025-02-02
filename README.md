@@ -5,7 +5,6 @@ A simple interactive quiz game built with Go (Golang). The game presents multipl
 ## 🚀 Features
 
 - 📝 **Multiple-choice questions**
-- ⏳ **10-second time limit per question**
 - ✅ **Automatic validation of user input**
 - 🎯 **Scoring system**
 - 🖥️ **Terminal-based gameplay**
